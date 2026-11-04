@@ -1,0 +1,62 @@
+
+======================================================================
+SEED: 'to be or not to be that is the question'
+======================================================================
+--- Temperature: 0.2 ---
+to be or not to be that is the question some with the reasons are my dear he have the will the world the some of stand and will the stare i have the store of the dear in the starge of the will the still with the son and he have not so stee
+
+--- Temperature: 0.5 ---
+to be or not to be that is the question of the from the place
+
+
+                                        
+
+the rase and dear i will the world not so see i may and the braster with the means are to the whom my tray in the oor thou art to som
+
+--- Temperature: 0.8 ---
+to be or not to be that is the question of with the sond
+in not that doth live
+the kingg and countloor and bear my beauty your good of the world to against sir you do forget no set of he my done
+but my love me wibeth who have to the praise
+
+
+======================================================================
+SEED: 'shall i compare thee to a summers day'
+======================================================================
+--- Temperature: 0.2 ---
+shall i compare thee to a summers day
+
+countess
+i will be the praise to the minds and shall the dear i will the store the man the store to say the store in the stare
+and shall the still see the rest the part the reasons are the stronger 
+
+--- Temperature: 0.5 ---
+shall i compare thee to a summers day
+
+cleopatra
+for the like the irmis with her love with him can strange shall well foul men to the hongiers being done with the beauty he hand
+
+countess
+yet i be her love dear is dear will seen me which
+
+--- Temperature: 0.8 ---
+shall i compare thee to a summers day nour ill some the perfucted
+
+charmian
+yet in thy best to fear is that down for which part that well of with but one line her for srume are honour in the filing thou my lear to your with a manners he 
+
+
+======================================================================
+SEED: 'friends romans countrymen lend me your ears'
+======================================================================
+--- Temperature: 0.2 ---
+friends romans countrymen lend me your ears and man some and the sings and the love the sur all the world the son and the rest the trangar and the will the like the duke the bring with you shall see the proud of the stronger and beauty of the 
+
+--- Temperature: 0.5 ---
+friends romans countrymen lend me your earser in his love in seen
+    would have he is all the dear caesar and excellenter of my gracely we are some to my love the agriment may i the wide the ring and beauty bears all the sur our not the count
+
+--- Temperature: 0.8 ---
+friends romans countrymen lend me your ears nor brease so my string of like
+that wifes have nor to in the king and that lave i so of such bean than that thou beauty so cinnrily to may you sir a coull the like bater jeter would do we will my tw
+
